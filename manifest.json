@@ -1,0 +1,20 @@
+{
+  "short_name": "Norbert's Portfolio",
+  "name": "Norbert's Portfolio",
+  "icons": [
+    {
+      "src": "192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
